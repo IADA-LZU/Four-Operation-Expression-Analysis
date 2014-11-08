@@ -1,7 +1,7 @@
 RPN_and_E
 =========
 
-This is a simple ( median bits) infix turn suffix and evaluated program
+This is a simple ( median bits) infix turn suffix and evaluated program.
 
                   IADA
                  刘乘艺
