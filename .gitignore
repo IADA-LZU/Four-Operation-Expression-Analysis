@@ -214,3 +214,26 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+
+#############
+## Code::Blocks
+#############
+
+#Code::Blocks Projects
+*.cbp
+*.layout
+*.depend
+
+
+#############
+## GCC
+#############
+
+#Compiled Object file
+*.o
+
+# Executables
+*.exe
+*.out
+*.app
