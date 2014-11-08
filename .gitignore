@@ -1,4 +1,11 @@
 #################
+#Default .gitignore
+#Support Eclipse, VS, Windows detritus, Python, Code::Blocks, GCC/G++
+# @NyuTartaros
+#################
+
+
+#################
 ## Eclipse
 #################
 
