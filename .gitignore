@@ -230,10 +230,5 @@ pip-log.txt
 ## GCC
 #############
 
-#Compiled Object file
+#GCC/G++ Compiler
 *.o
-
-# Executables
-*.exe
-*.out
-*.app
