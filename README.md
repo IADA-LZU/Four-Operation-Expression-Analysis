@@ -1,6 +1,4 @@
-expression_value by lch@iada
-============================
+Four-Operation-Expression-Analysis
+==================================
 
-A simple program to output the value of a arithmetic expression.
-
-I have written some explanation about the code.
+Exercise: Four-Operation Expression Analysis
